@@ -7,7 +7,7 @@ dir_ref='path/to/reference/data/ref.rds'
 
 dir_query='path/to/query/data/query.rds'
 
-num_features=500
+num_features=250
 
 
 ref_sce = readRDS(dir_ref)
